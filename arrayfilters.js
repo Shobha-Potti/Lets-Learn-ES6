@@ -1,5 +1,5 @@
 //map filter
-/* let a = [1, 2, 3]
+let a = [1, 2, 3]
 
 a.map((x) => console.log(x * 2));
 // it is same as a.map(function(x){console.log(x*2)});
@@ -77,7 +77,6 @@ console.log("All the computers can Run the program = " + canComputerRunThisProgr
 
 console.log("All the computers can Run the program = " + canSomeComputerRunThisProgram);
 
-*/
 
 //Reduce helper = using this we can almost use all the helpers in the ES6
 
